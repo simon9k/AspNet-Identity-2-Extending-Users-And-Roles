@@ -1,3 +1,6 @@
+##基本实现了user /role的管理，可以在项目中拿来就用
+
+
 ASP.NET Identity 2.0 Extending Users and Roles Example
 ======================================================
 
